@@ -1,0 +1,1 @@
+Please place the final Ecommerce_Analytics.pbix file in this directory once the dashboard is built and connected to the SQL Server views/tables.
