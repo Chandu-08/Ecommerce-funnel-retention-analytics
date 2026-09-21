@@ -2,6 +2,8 @@
 
 > **An end-to-end SQL Server, Python, and Power BI project analyzing e-commerce sales performance, purchase-funnel conversion, and customer retention — built on the real Olist Brazilian E-Commerce dataset (~100K orders).**
 
+**Dataset:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — ~100K real, anonymized orders (2016–2018) across multiple Brazilian marketplaces, spanning 9 linked CSV files (orders, items, payments, reviews, customers, products, sellers, and geolocation).
+
 ## 📌 Business Problem
 
 Top-line revenue numbers hide two things most e-commerce businesses can't see without deeper analysis: where the operational funnel is leaking orders, and how dependent the business is on new customer acquisition versus repeat buyers. Without that visibility, retention spend gets deprioritized in favor of top-of-funnel acquisition — even when acquisition is the more expensive lever.
@@ -71,4 +73,4 @@ Power BI: executive dashboard (KPIs, funnel, retention heatmap)
 *(Add a screenshot of your Power BI executive dashboard here once finalized — this is usually the first thing a recruiter looks at.)*
 
 ---
-*Dataset: Olist Brazilian E-Commerce Public Dataset, via Kaggle.*
+*Dataset: [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), via Kaggle.*
